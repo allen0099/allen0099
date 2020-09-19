@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - I am a university student.
-- Learning about PHP, Javascript.
+- Learning about PHP, JavaScript.
 
 ### Stats
 
