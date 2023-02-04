@@ -2,13 +2,18 @@
 
 #### About me
 
-- A working hard wage slave.
-- Familiar with Python.
-    - Familiar with Flask.
-    - Familiar with Django framework.
-- A frontend newbie.
-    - Learning React.js.
-    - Learning Next.js.
+##### Skills
+
+- Python
+    - Frameworks
+        - Flask
+        - Django
+    - Native python
+- Other
+    - Shell script
+    - Linux
+    - Kubernates
+    - Docker & Docker compose
 
 ### Stats
 
