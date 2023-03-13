@@ -9,6 +9,8 @@
         - Flask
         - Django
     - Native python
+- Frontend
+    - React (Learning)
 - Other
     - Shell script
     - Linux
@@ -38,4 +40,4 @@
 
 [Telegram]: https://t.me/allen0099
 
-[email]: mailto:s96016641@gmail.com
+[email]: mailto:allen0099@sudo.host
