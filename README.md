@@ -2,39 +2,46 @@
 
 #### About me
 
+- 🔭 I’m currently working on [III][company_url] as a backend / devops engineer
+
 ##### Skills
 
 - Python
-    - Frameworks
-        - Flask
-        - Django
-    - Native python
+    - Flask
+    - FastAPI
+    - Django
+    - native
 - Frontend
-    - React (Learning)
+    - React
 - Other
     - Shell script
     - Linux
-    - Kubernates
-    - Docker & Docker compose
+    - Kubernetes
+    - Container
 
-### Stats
-
-[![Github Stats][statspic]][readmestats]
-
-### Top Languages
-
-[![Top Langs][toplangspic]][readmestats]
+[![GitHub Userinfo][userinfo]][GitHub]
+[![GitHub Userstat][userstat]][card_api]
+[![Product Time][worktime]][card_api]
+[![Languages][toplangs]][readmestats]
 
 ### Contact
 
 - [Telegram][Telegram]
 - [Email][email]
 
-[statspic]: https://github-readme-stats.vercel.app/api?username=allen0099&include_all_commits=true&show_icons=true&hide_rank=true
-
-[toplangspic]: https://github-readme-stats.vercel.app/api/top-langs/?username=allen0099&layout=compact&hide=php,vue
+[card_api]: https://github-profile-summary-cards.vercel.app/demo.html
 
 [readmestats]: https://github.com/anuraghazra/github-readme-stats
+
+[userinfo]: http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=allen0099&theme=solarized_dark
+
+[userstat]: https://github-profile-summary-cards.vercel.app/api/cards/stats?username=allen0099&theme=solarized_dark
+
+[worktime]: https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=allen0099&theme=solarized_dark
+
+[toplangs]: https://github-readme-stats.vercel.app/api/top-langs/?username=allen0099&layout=donut&hide=php,vue&theme=solarized-dark&hide_border=true
+
+[company_url]: https://www.iii.org.tw/default.aspx
 
 [GitHub]: https://github.com/allen0099
 
