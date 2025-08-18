@@ -97,6 +97,15 @@
 
 ###
 
+<br clear="both">
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=allen0099&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=allen0099&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
+</div>
+
+###
+
 <h2 align="left">✒️ Recent activity</h2>
 
 <!--START_SECTION:activity-->
@@ -105,14 +114,5 @@
 3. 🗣 Commented on [#873](https://github.com/keycloakify/keycloakify/issues/873#issuecomment-3159062367) in [keycloakify/keycloakify](https://github.com/keycloakify/keycloakify)
 4. 💪 Opened PR [#41267](https://github.com/keycloak/keycloak/pull/41267) in [keycloak/keycloak](https://github.com/keycloak/keycloak)
 <!--END_SECTION:activity-->
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=allen0099&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=allen0099&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
-</div>
 
 ###
