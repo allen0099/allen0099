@@ -100,6 +100,11 @@
 <h2 align="left">✒️ Recent activity</h2>
 
 <!--START_SECTION:activity-->
+1. ❌ Closed PR [#2](https://github.com/allen0099/UTaipei_Frontend/pull/2) in [allen0099/UTaipei_Frontend](https://github.com/allen0099/UTaipei_Frontend)
+2. 🗣 Commented on [#873](https://github.com/keycloakify/keycloakify/issues/873#issuecomment-3159280716) in [keycloakify/keycloakify](https://github.com/keycloakify/keycloakify)
+3. 🗣 Commented on [#873](https://github.com/keycloakify/keycloakify/issues/873#issuecomment-3159062367) in [keycloakify/keycloakify](https://github.com/keycloakify/keycloakify)
+4. 💪 Opened PR [#41267](https://github.com/keycloak/keycloak/pull/41267) in [keycloak/keycloak](https://github.com/keycloak/keycloak)
+<!--END_SECTION:activity-->
 
 ###
 
