@@ -109,10 +109,10 @@
 <h2 align="left">✒️ Recent activity</h2>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#5](https://github.com/allen0099/utaipei-course-web/issues/5) in [allen0099/utaipei-course-web](https://github.com/allen0099/utaipei-course-web)
-2. ❗ Opened issue [#3](https://github.com/allen0099/utaipei-course-web/issues/3) in [allen0099/utaipei-course-web](https://github.com/allen0099/utaipei-course-web)
-3. 🎉 Merged PR [#2](https://github.com/allen0099/utaipei-course-web/pull/2) in [allen0099/utaipei-course-web](https://github.com/allen0099/utaipei-course-web)
-4. ❗ Opened issue [#78](https://github.com/thomasdarimont/awesome-keycloak/issues/78) in [thomasdarimont/awesome-keycloak](https://github.com/thomasdarimont/awesome-keycloak)
+1. 🔒 Closed issue [#3](https://github.com/allen0099/utaipei-course-web/issues/3) in [allen0099/utaipei-course-web](https://github.com/allen0099/utaipei-course-web)
+2. 🎉 Merged PR [#4](https://github.com/allen0099/utaipei-course-web/pull/4) in [allen0099/utaipei-course-web](https://github.com/allen0099/utaipei-course-web)
+3. 🔒 Closed issue [#5](https://github.com/allen0099/utaipei-course-web/issues/5) in [allen0099/utaipei-course-web](https://github.com/allen0099/utaipei-course-web)
+4. 🎉 Merged PR [#6](https://github.com/allen0099/utaipei-course-web/pull/6) in [allen0099/utaipei-course-web](https://github.com/allen0099/utaipei-course-web)
 <!--END_SECTION:activity-->
 
 ###
