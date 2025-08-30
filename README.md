@@ -109,10 +109,10 @@
 <h2 align="left">✒️ Recent activity</h2>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#78](https://github.com/thomasdarimont/awesome-keycloak/issues/78) in [thomasdarimont/awesome-keycloak](https://github.com/thomasdarimont/awesome-keycloak)
-2. ❌ Closed PR [#2](https://github.com/allen0099/UTaipei_Frontend/pull/2) in [allen0099/UTaipei_Frontend](https://github.com/allen0099/UTaipei_Frontend)
-3. 🗣 Commented on [#873](https://github.com/keycloakify/keycloakify/issues/873#issuecomment-3159280716) in [keycloakify/keycloakify](https://github.com/keycloakify/keycloakify)
-4. 🗣 Commented on [#873](https://github.com/keycloakify/keycloakify/issues/873#issuecomment-3159062367) in [keycloakify/keycloakify](https://github.com/keycloakify/keycloakify)
+1. 🎉 Merged PR [#2](https://github.com/allen0099/utaipei-course-web/pull/2) in [allen0099/utaipei-course-web](https://github.com/allen0099/utaipei-course-web)
+2. ❗ Opened issue [#78](https://github.com/thomasdarimont/awesome-keycloak/issues/78) in [thomasdarimont/awesome-keycloak](https://github.com/thomasdarimont/awesome-keycloak)
+3. ❌ Closed PR [#2](https://github.com/allen0099/UTaipei_Frontend/pull/2) in [allen0099/UTaipei_Frontend](https://github.com/allen0099/UTaipei_Frontend)
+4. 🗣 Commented on [#873](https://github.com/keycloakify/keycloakify/issues/873#issuecomment-3159280716) in [keycloakify/keycloakify](https://github.com/keycloakify/keycloakify)
 <!--END_SECTION:activity-->
 
 ###
