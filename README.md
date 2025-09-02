@@ -109,10 +109,10 @@
 <h2 align="left">✒️ Recent activity</h2>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#7](https://github.com/allen0099/utaipei-course-web/issues/7) in [allen0099/utaipei-course-web](https://github.com/allen0099/utaipei-course-web)
-2. 🔒 Closed issue [#3](https://github.com/allen0099/utaipei-course-web/issues/3) in [allen0099/utaipei-course-web](https://github.com/allen0099/utaipei-course-web)
-3. 🎉 Merged PR [#4](https://github.com/allen0099/utaipei-course-web/pull/4) in [allen0099/utaipei-course-web](https://github.com/allen0099/utaipei-course-web)
-4. 🔒 Closed issue [#5](https://github.com/allen0099/utaipei-course-web/issues/5) in [allen0099/utaipei-course-web](https://github.com/allen0099/utaipei-course-web)
+1. 🔒 Closed issue [#9](https://github.com/allen0099/utaipei-course-web/issues/9) in [allen0099/utaipei-course-web](https://github.com/allen0099/utaipei-course-web)
+2. 🎉 Merged PR [#10](https://github.com/allen0099/utaipei-course-web/pull/10) in [allen0099/utaipei-course-web](https://github.com/allen0099/utaipei-course-web)
+3. ❗ Opened issue [#7](https://github.com/allen0099/utaipei-course-web/issues/7) in [allen0099/utaipei-course-web](https://github.com/allen0099/utaipei-course-web)
+4. 🔒 Closed issue [#3](https://github.com/allen0099/utaipei-course-web/issues/3) in [allen0099/utaipei-course-web](https://github.com/allen0099/utaipei-course-web)
 <!--END_SECTION:activity-->
 
 ###
