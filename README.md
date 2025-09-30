@@ -109,10 +109,10 @@
 <h2 align="left">✒️ Recent activity</h2>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#888](https://github.com/BloopAI/vibe-kanban/issues/888) in [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban)
-2.  Labeled issue [#159](https://github.com/CloudPirates-io/helm-charts/issues/159) in [CloudPirates-io/helm-charts](https://github.com/CloudPirates-io/helm-charts)
-3. ❗ Opened issue [#159](https://github.com/CloudPirates-io/helm-charts/issues/159) in [CloudPirates-io/helm-charts](https://github.com/CloudPirates-io/helm-charts)
-4. 🗣 Commented on [#42785](https://github.com/keycloak/keycloak/issues/42785#issuecomment-3319931202) in [keycloak/keycloak](https://github.com/keycloak/keycloak)
+1. ❗ Opened issue [#42575](https://github.com/keycloak/keycloak/issues/42575) in [keycloak/keycloak](https://github.com/keycloak/keycloak)
+2. 🎉 Merged PR [#13](https://github.com/allen0099/utaipei-course-web/pull/13) in [allen0099/utaipei-course-web](https://github.com/allen0099/utaipei-course-web)
+3. ❗ Opened issue [#11](https://github.com/allen0099/utaipei-course-web/issues/11) in [allen0099/utaipei-course-web](https://github.com/allen0099/utaipei-course-web)
+4. 🔒 Closed issue [#9](https://github.com/allen0099/utaipei-course-web/issues/9) in [allen0099/utaipei-course-web](https://github.com/allen0099/utaipei-course-web)
 <!--END_SECTION:activity-->
 
 ###
