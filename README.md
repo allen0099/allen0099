@@ -109,10 +109,10 @@
 <h2 align="left">✒️ Recent activity</h2>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#70](https://github.com/RostislavDugin/postgresus/issues/70) in [RostislavDugin/postgresus](https://github.com/RostislavDugin/postgresus)
-2.  Labeled issue [#159](https://github.com/CloudPirates-io/helm-charts/issues/159) in [CloudPirates-io/helm-charts](https://github.com/CloudPirates-io/helm-charts)
-3. ❗ Opened issue [#159](https://github.com/CloudPirates-io/helm-charts/issues/159) in [CloudPirates-io/helm-charts](https://github.com/CloudPirates-io/helm-charts)
-4. 🗣 Commented on [#42785](https://github.com/keycloak/keycloak/issues/42785#issuecomment-3319931202) in [keycloak/keycloak](https://github.com/keycloak/keycloak)
+1. ❗ Opened issue [#3](https://github.com/allen0099/tdesktop/issues/3) in [allen0099/tdesktop](https://github.com/allen0099/tdesktop)
+2.  Assigned issue [#3](https://github.com/allen0099/tdesktop/issues/3) in [allen0099/tdesktop](https://github.com/allen0099/tdesktop)
+3.  Assigned issue [#1](https://github.com/allen0099/tdesktop/issues/1) in [allen0099/tdesktop](https://github.com/allen0099/tdesktop)
+4.  Labeled issue [#1](https://github.com/allen0099/tdesktop/issues/1) in [allen0099/tdesktop](https://github.com/allen0099/tdesktop)
 <!--END_SECTION:activity-->
 
 ###
