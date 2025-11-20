@@ -109,10 +109,10 @@
 <h2 align="left">✒️ Recent activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/allen0099/tdesktop/pull/2#issuecomment-3556198958) in [allen0099/tdesktop](https://github.com/allen0099/tdesktop)
-2. 🗣 Commented on [#2](https://github.com/allen0099/tdesktop/pull/2#issuecomment-3555149190) in [allen0099/tdesktop](https://github.com/allen0099/tdesktop)
-3. 🗣 Commented on [#6](https://github.com/allen0099/tdesktop/pull/6#issuecomment-3551785860) in [allen0099/tdesktop](https://github.com/allen0099/tdesktop)
-4.  Labeled issue [#5](https://github.com/allen0099/tdesktop/issues/5) in [allen0099/tdesktop](https://github.com/allen0099/tdesktop)
+1. 🗣 Commented on [#2](https://github.com/allen0099/tdesktop/pull/2#issuecomment-3556360272) in [allen0099/tdesktop](https://github.com/allen0099/tdesktop)
+2. 🗣 Commented on [#2](https://github.com/allen0099/tdesktop/pull/2#issuecomment-3556198958) in [allen0099/tdesktop](https://github.com/allen0099/tdesktop)
+3. 🗣 Commented on [#2](https://github.com/allen0099/tdesktop/pull/2#issuecomment-3555149190) in [allen0099/tdesktop](https://github.com/allen0099/tdesktop)
+4. 🗣 Commented on [#6](https://github.com/allen0099/tdesktop/pull/6#issuecomment-3551785860) in [allen0099/tdesktop](https://github.com/allen0099/tdesktop)
 <!--END_SECTION:activity-->
 
 ###
