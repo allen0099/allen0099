@@ -109,10 +109,10 @@
 <h2 align="left">✒️ Recent activity</h2>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5940](undefined) in [block/goose](https://github.com/block/goose)
-2. ❌ Closed PR [#6](undefined) in [allen0099/tdesktop](https://github.com/allen0099/tdesktop)
-3. 🗣 Commented on [#5](https://github.com/allen0099/tdesktop/issues/5#issuecomment-3558224096) in [allen0099/tdesktop](https://github.com/allen0099/tdesktop)
-4. 🔒 Closed issue [#5](https://github.com/allen0099/tdesktop/issues/5) in [allen0099/tdesktop](https://github.com/allen0099/tdesktop)
+1. ❗ Opened issue [#373](https://github.com/dialoguemd/fastapi-sqla/issues/373) in [dialoguemd/fastapi-sqla](https://github.com/dialoguemd/fastapi-sqla)
+2. 💪 Opened PR [#5940](undefined) in [block/goose](https://github.com/block/goose)
+3. ❌ Closed PR [#6](undefined) in [allen0099/tdesktop](https://github.com/allen0099/tdesktop)
+4. 🗣 Commented on [#5](https://github.com/allen0099/tdesktop/issues/5#issuecomment-3558224096) in [allen0099/tdesktop](https://github.com/allen0099/tdesktop)
 <!--END_SECTION:activity-->
 
 ###
