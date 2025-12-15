@@ -109,10 +109,10 @@
 <h2 align="left">✒️ Recent activity</h2>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/allen0099/FastAPI-CacheX/issues/1) in [allen0099/FastAPI-CacheX](https://github.com/allen0099/FastAPI-CacheX)
-2.  Assigned issue [#1](https://github.com/allen0099/FastAPI-CacheX/issues/1) in [allen0099/FastAPI-CacheX](https://github.com/allen0099/FastAPI-CacheX)
-3. ❗ Opened issue [#373](https://github.com/dialoguemd/fastapi-sqla/issues/373) in [dialoguemd/fastapi-sqla](https://github.com/dialoguemd/fastapi-sqla)
-4. 💪 Opened PR [#5940](undefined) in [block/goose](https://github.com/block/goose)
+1. 🗣 Commented on [#2](https://github.com/allen0099/FastAPI-CacheX/pull/2#issuecomment-3656253881) in [allen0099/FastAPI-CacheX](https://github.com/allen0099/FastAPI-CacheX)
+2. ❗ Opened issue [#1](https://github.com/allen0099/FastAPI-CacheX/issues/1) in [allen0099/FastAPI-CacheX](https://github.com/allen0099/FastAPI-CacheX)
+3.  Assigned issue [#1](https://github.com/allen0099/FastAPI-CacheX/issues/1) in [allen0099/FastAPI-CacheX](https://github.com/allen0099/FastAPI-CacheX)
+4. ❗ Opened issue [#373](https://github.com/dialoguemd/fastapi-sqla/issues/373) in [dialoguemd/fastapi-sqla](https://github.com/dialoguemd/fastapi-sqla)
 <!--END_SECTION:activity-->
 
 ###
