@@ -109,10 +109,10 @@
 <h2 align="left">✒️ Recent activity</h2>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#2](undefined) in [allen0099/FastAPI-CacheX](https://github.com/allen0099/FastAPI-CacheX)
-2. 🔒 Closed issue [#1](https://github.com/allen0099/FastAPI-CacheX/issues/1) in [allen0099/FastAPI-CacheX](https://github.com/allen0099/FastAPI-CacheX)
-3. 🗣 Commented on [#1](https://github.com/allen0099/FastAPI-CacheX/issues/1#issuecomment-3659440144) in [allen0099/FastAPI-CacheX](https://github.com/allen0099/FastAPI-CacheX)
-4. 🗣 Commented on [#2](https://github.com/allen0099/FastAPI-CacheX/pull/2#issuecomment-3656253881) in [allen0099/FastAPI-CacheX](https://github.com/allen0099/FastAPI-CacheX)
+1. ❌ Merged PR [#5940](undefined) in [block/goose](https://github.com/block/goose)
+2. ❌ Closed PR [#2](undefined) in [allen0099/FastAPI-CacheX](https://github.com/allen0099/FastAPI-CacheX)
+3. 🔒 Closed issue [#1](https://github.com/allen0099/FastAPI-CacheX/issues/1) in [allen0099/FastAPI-CacheX](https://github.com/allen0099/FastAPI-CacheX)
+4. 🗣 Commented on [#1](https://github.com/allen0099/FastAPI-CacheX/issues/1#issuecomment-3659440144) in [allen0099/FastAPI-CacheX](https://github.com/allen0099/FastAPI-CacheX)
 <!--END_SECTION:activity-->
 
 ###
