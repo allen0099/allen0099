@@ -109,9 +109,9 @@
 <h2 align="left">✒️ Recent activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/allen0099/blacklist/pull/1#issuecomment-4211420142) in [allen0099/blacklist](https://github.com/allen0099/blacklist)
-2. 🗣 Commented on [#1](https://github.com/allen0099/blacklist/pull/1#issuecomment-4211376697) in [allen0099/blacklist](https://github.com/allen0099/blacklist)
-3. 🔒 Closed issue [#1](https://github.com/allen0099/FastAPI-CacheX/issues/1) in [allen0099/FastAPI-CacheX](https://github.com/allen0099/FastAPI-CacheX)
+1. 🚀 Published release [v0.1.0](https://github.com/allen0099/blacklist/releases/tag/v0.1.0) in [allen0099/blacklist](https://github.com/allen0099/blacklist)
+2. 🗣 Commented on [#1](https://github.com/allen0099/blacklist/pull/1#issuecomment-4211420142) in [allen0099/blacklist](https://github.com/allen0099/blacklist)
+3. 🗣 Commented on [#1](https://github.com/allen0099/blacklist/pull/1#issuecomment-4211376697) in [allen0099/blacklist](https://github.com/allen0099/blacklist)
 4. 🗣 Commented on [#1](https://github.com/allen0099/FastAPI-CacheX/issues/1#issuecomment-3659440144) in [allen0099/FastAPI-CacheX](https://github.com/allen0099/FastAPI-CacheX)
 <!--END_SECTION:activity-->
 
