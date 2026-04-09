@@ -109,8 +109,8 @@
 <h2 align="left">✒️ Recent activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/allen0099/CF-test/pull/1) in [allen0099/CF-test](https://github.com/allen0099/CF-test)
-2. ❌ Closed PR [#2](https://github.com/allen0099/FastAPI-CacheX/pull/2) in [allen0099/FastAPI-CacheX](https://github.com/allen0099/FastAPI-CacheX)
+1. 🗣 Commented on [#1](https://github.com/allen0099/blacklist/pull/1#issuecomment-4211420142) in [allen0099/blacklist](https://github.com/allen0099/blacklist)
+2. 🗣 Commented on [#1](https://github.com/allen0099/blacklist/pull/1#issuecomment-4211376697) in [allen0099/blacklist](https://github.com/allen0099/blacklist)
 3. 🔒 Closed issue [#1](https://github.com/allen0099/FastAPI-CacheX/issues/1) in [allen0099/FastAPI-CacheX](https://github.com/allen0099/FastAPI-CacheX)
 4. 🗣 Commented on [#1](https://github.com/allen0099/FastAPI-CacheX/issues/1#issuecomment-3659440144) in [allen0099/FastAPI-CacheX](https://github.com/allen0099/FastAPI-CacheX)
 <!--END_SECTION:activity-->
