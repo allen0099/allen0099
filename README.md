@@ -109,10 +109,10 @@
 <h2 align="left">✒️ Recent activity</h2>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#23](https://github.com/allen0099/utaipei-course-web/pull/23) in [allen0099/utaipei-course-web](https://github.com/allen0099/utaipei-course-web)
-2. 🗣 Commented on [#14](https://github.com/allen0099/utaipei-course-web/pull/14#issuecomment-4323841934) in [allen0099/utaipei-course-web](https://github.com/allen0099/utaipei-course-web)
-3. ❌ Closed PR [#25](https://github.com/allen0099/FastAPI-CacheX/pull/25) in [allen0099/FastAPI-CacheX](https://github.com/allen0099/FastAPI-CacheX)
-4. ❌ Closed PR [#24](https://github.com/allen0099/FastAPI-CacheX/pull/24) in [allen0099/FastAPI-CacheX](https://github.com/allen0099/FastAPI-CacheX)
+1. 🎉 Merged PR [#23](https://github.com/allen0099/utaipei-course-web/pull/23) in [allen0099/utaipei-course-web](https://github.com/allen0099/utaipei-course-web)
+2. 💪 Opened PR [#23](https://github.com/allen0099/utaipei-course-web/pull/23) in [allen0099/utaipei-course-web](https://github.com/allen0099/utaipei-course-web)
+3. 🗣 Commented on [#14](https://github.com/allen0099/utaipei-course-web/pull/14#issuecomment-4323841934) in [allen0099/utaipei-course-web](https://github.com/allen0099/utaipei-course-web)
+4. ❌ Closed PR [#25](https://github.com/allen0099/FastAPI-CacheX/pull/25) in [allen0099/FastAPI-CacheX](https://github.com/allen0099/FastAPI-CacheX)
 <!--END_SECTION:activity-->
 
 ###
