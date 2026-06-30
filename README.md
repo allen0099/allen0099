@@ -109,10 +109,10 @@
 <h2 align="left">✒️ Recent activity</h2>
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#141](https://github.com/sitcon-tw/credits-profiles/issues/141) in [sitcon-tw/credits-profiles](https://github.com/sitcon-tw/credits-profiles)
-2. ❗ Opened issue [#141](https://github.com/sitcon-tw/credits-profiles/issues/141) in [sitcon-tw/credits-profiles](https://github.com/sitcon-tw/credits-profiles)
-3. 🗣 Commented on [#14](https://github.com/allen0099/utaipei-course-web/pull/14#issuecomment-4323841934) in [allen0099/utaipei-course-web](https://github.com/allen0099/utaipei-course-web)
-4. ❌ Closed PR [#25](https://github.com/allen0099/FastAPI-CacheX/pull/25) in [allen0099/FastAPI-CacheX](https://github.com/allen0099/FastAPI-CacheX)
+1. ❌ Closed PR [#34](https://github.com/allen0099/FastAPI-CacheX/pull/34) in [allen0099/FastAPI-CacheX](https://github.com/allen0099/FastAPI-CacheX)
+2. ❌ Closed PR [#33](https://github.com/allen0099/FastAPI-CacheX/pull/33) in [allen0099/FastAPI-CacheX](https://github.com/allen0099/FastAPI-CacheX)
+3. ❌ Closed PR [#32](https://github.com/allen0099/FastAPI-CacheX/pull/32) in [allen0099/FastAPI-CacheX](https://github.com/allen0099/FastAPI-CacheX)
+4. ❌ Closed PR [#28](https://github.com/allen0099/FastAPI-CacheX/pull/28) in [allen0099/FastAPI-CacheX](https://github.com/allen0099/FastAPI-CacheX)
 <!--END_SECTION:activity-->
 
 ###
