@@ -109,10 +109,10 @@
 <h2 align="left">✒️ Recent activity</h2>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#34](https://github.com/allen0099/FastAPI-CacheX/pull/34) in [allen0099/FastAPI-CacheX](https://github.com/allen0099/FastAPI-CacheX)
-2. ❌ Closed PR [#33](https://github.com/allen0099/FastAPI-CacheX/pull/33) in [allen0099/FastAPI-CacheX](https://github.com/allen0099/FastAPI-CacheX)
-3. ❌ Closed PR [#32](https://github.com/allen0099/FastAPI-CacheX/pull/32) in [allen0099/FastAPI-CacheX](https://github.com/allen0099/FastAPI-CacheX)
-4. ❌ Closed PR [#28](https://github.com/allen0099/FastAPI-CacheX/pull/28) in [allen0099/FastAPI-CacheX](https://github.com/allen0099/FastAPI-CacheX)
+1. 🗣 Commented on [#455](https://github.com/mirumee/ariadne-codegen/issues/455#issuecomment-5089824188) in [mirumee/ariadne-codegen](https://github.com/mirumee/ariadne-codegen)
+2. ❌ Closed PR [#34](https://github.com/allen0099/FastAPI-CacheX/pull/34) in [allen0099/FastAPI-CacheX](https://github.com/allen0099/FastAPI-CacheX)
+3. ❌ Closed PR [#33](https://github.com/allen0099/FastAPI-CacheX/pull/33) in [allen0099/FastAPI-CacheX](https://github.com/allen0099/FastAPI-CacheX)
+4. ❌ Closed PR [#32](https://github.com/allen0099/FastAPI-CacheX/pull/32) in [allen0099/FastAPI-CacheX](https://github.com/allen0099/FastAPI-CacheX)
 <!--END_SECTION:activity-->
 
 ###
