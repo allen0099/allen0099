@@ -109,10 +109,10 @@
 <h2 align="left">✒️ Recent activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#21](https://github.com/Ti-wb/bus-analysis/pull/21) in [Ti-wb/bus-analysis](https://github.com/Ti-wb/bus-analysis)
-2. 💪 Opened PR [#21](https://github.com/Ti-wb/bus-analysis/pull/21) in [Ti-wb/bus-analysis](https://github.com/Ti-wb/bus-analysis)
-3. 🎉 Merged PR [#20](https://github.com/Ti-wb/bus-analysis/pull/20) in [Ti-wb/bus-analysis](https://github.com/Ti-wb/bus-analysis)
-4. 💪 Opened PR [#20](https://github.com/Ti-wb/bus-analysis/pull/20) in [Ti-wb/bus-analysis](https://github.com/Ti-wb/bus-analysis)
+1. 🎉 Merged PR [#26](https://github.com/Ti-wb/bus-analysis/pull/26) in [Ti-wb/bus-analysis](https://github.com/Ti-wb/bus-analysis)
+2. 💪 Opened PR [#26](https://github.com/Ti-wb/bus-analysis/pull/26) in [Ti-wb/bus-analysis](https://github.com/Ti-wb/bus-analysis)
+3. 🎉 Merged PR [#21](https://github.com/Ti-wb/bus-analysis/pull/21) in [Ti-wb/bus-analysis](https://github.com/Ti-wb/bus-analysis)
+4. 💪 Opened PR [#21](https://github.com/Ti-wb/bus-analysis/pull/21) in [Ti-wb/bus-analysis](https://github.com/Ti-wb/bus-analysis)
 <!--END_SECTION:activity-->
 
 ###
