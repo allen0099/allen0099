@@ -109,10 +109,10 @@
 <h2 align="left">✒️ Recent activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#601](https://github.com/allen0099/FastAPI-CacheX/pull/601) in [allen0099/FastAPI-CacheX](https://github.com/allen0099/FastAPI-CacheX)
-2. 🎉 Merged PR [#600](https://github.com/allen0099/FastAPI-CacheX/pull/600) in [allen0099/FastAPI-CacheX](https://github.com/allen0099/FastAPI-CacheX)
-3. 🎉 Merged PR [#599](https://github.com/allen0099/FastAPI-CacheX/pull/599) in [allen0099/FastAPI-CacheX](https://github.com/allen0099/FastAPI-CacheX)
-4. ℹ️ Labeled PR [#601](https://github.com/allen0099/FastAPI-CacheX/pull/601) in [allen0099/FastAPI-CacheX](https://github.com/allen0099/FastAPI-CacheX)
+1. 🔒 Closed issue [#623](https://github.com/allen0099/FastAPI-CacheX/issues/623) in [allen0099/FastAPI-CacheX](https://github.com/allen0099/FastAPI-CacheX)
+2. 🎉 Merged PR [#626](https://github.com/allen0099/FastAPI-CacheX/pull/626) in [allen0099/FastAPI-CacheX](https://github.com/allen0099/FastAPI-CacheX)
+3. 💪 Opened PR [#626](https://github.com/allen0099/FastAPI-CacheX/pull/626) in [allen0099/FastAPI-CacheX](https://github.com/allen0099/FastAPI-CacheX)
+4. ℹ️ Labeled issue [#625](https://github.com/allen0099/FastAPI-CacheX/issues/625) in [allen0099/FastAPI-CacheX](https://github.com/allen0099/FastAPI-CacheX)
 <!--END_SECTION:activity-->
 
 ###
